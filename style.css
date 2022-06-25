@@ -27,12 +27,14 @@ button {
     padding: 10px 20px;
     border: none;
     border-radius: 10px;
+    font-weight: bold;
     cursor: pointer;
 }
 
+
 /* Container-1 styles start */
 #container1 {
-    margin-top: 10px;
+    margin-top: 25px;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 10px;
@@ -51,7 +53,7 @@ button {
 
 /* Container-2 styles Start */
 .container #container2 {
-    margin-top: 10px;
+    margin-top: 25px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
